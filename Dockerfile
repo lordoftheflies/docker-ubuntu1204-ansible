@@ -1,5 +1,5 @@
 FROM ubuntu:12.04
-LABEL maintainer="Jeff Geerling"
+LABEL maintainer="László Hegedűs"
 
 # Install dependencies.
 RUN apt-get update \
