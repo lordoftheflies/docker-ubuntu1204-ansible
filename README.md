@@ -1,4 +1,4 @@
-# DEPRECATED - Ubuntu 12.04 LTS (Precise) Ansible Test Image
+# Ubuntu 12.04 LTS (Precise) Ansible Test Image
 
 [![Docker Automated build](https://img.shields.io/docker/automated/lordoftheflies/docker-ubuntu1204-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/lordoftheflies/docker-ubuntu1204-ansible/)
 
